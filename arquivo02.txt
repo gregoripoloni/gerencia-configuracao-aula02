@@ -2,4 +2,4 @@ Esse é o segundo arquivo do projeto!
 
 Esse arquivo foi gerado apenas para contar como uma modificação no Git.
 
-Teste de conflito simples.
+Teste de conflito complexo.
