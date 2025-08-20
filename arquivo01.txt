@@ -1,3 +1,5 @@
 Esse é o primeiro arquivo do projeto!
 
 Esse é um projeto da cadeira de Gerência de configuração, focado na prática de uso do Git e GitHub.
+
+Testando conflito simples de branches.
